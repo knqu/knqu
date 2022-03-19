@@ -4,8 +4,7 @@
 - Web Development
 - Cybersecurity
 - Programming
-- Music Composition (kinda)
-- K-pop
+- Music Composition
 
 ## Languages:
 - HTML/CSS (Advanced)
