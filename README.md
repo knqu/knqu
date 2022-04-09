@@ -1,10 +1,10 @@
 # Hello!
 
-## Interests:
+## Currently Learning:
 - Web Development
+  - https://knqu.github.io
 - Cybersecurity
 - Programming
-- Music Composition
 
 ## Languages:
 - HTML/CSS (Advanced)
