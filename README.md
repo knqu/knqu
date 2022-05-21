@@ -2,8 +2,9 @@
 
 ## Currently Learning:
 - Web Development
-  - https://knqu.github.io
+  - https://knqu.github.io/
 - Game Development
+  - https://knqu.github.io/aftermath/
 - Cybersecurity
 - Programming
 
