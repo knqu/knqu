@@ -1,10 +1,9 @@
 # Hello!
+Visit my portfolio! https://kevinqu.com
 
 ## Currently Learning:
 - Web Development
-  - https://kevinqu.com
 - Game Development
-  - https://knqu.github.io/aftermath
 - Cybersecurity
 - Programming
 
