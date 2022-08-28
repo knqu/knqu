@@ -11,3 +11,4 @@ Visit my portfolio! https://kevinqu.com
 - HTML/CSS (Advanced)
 - JavaScript (Intermediate)
 - Python (Intermediate)
+- Java (Beginner)
