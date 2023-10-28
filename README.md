@@ -2,10 +2,14 @@
 Visit my portfolio! https://kevinqu.com
 
 ## Currently Learning:
-- Web Development
-- Game Development
+- Software Engineering
+  - Web Development (Full-Stack)
+  - Game Development (HTML5, Unity)
 - Cybersecurity
-- Programming
+  - Penetration Testing (Web, Network)
+  - System Hardening (Windows 10, Windows Server 2022)
+- System Administration
+  - Management Tools (Microsoft Intune)
 
 ## Languages:
 - HTML/CSS (Advanced)
